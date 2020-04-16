@@ -1,11 +1,11 @@
-# Projects -
+# Projects - To Do
 
 > This repo is about different ways to make to do apps.
 >
 > There are two different types of apps
 >
-> 1. Persistent - (Storage information longteam)
-> 2. Nonpersistent - /\/\/\ NOT do that
+> 1. Persistent - (Storage information long-team)
+> 2. Nonpersistent - (Not do above)
 >
 > All apps are rated in complexity
 >
