@@ -5,7 +5,7 @@
 > There are two different types of apps
 >
 > 1. Persistent - (Storage information long-team)
-> 2. Nonpersistent - (Not do above)
+> 2. Nonpersistent
 >
 > All apps are rated in complexity
 >
