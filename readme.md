@@ -15,12 +15,12 @@
 
 ## Persistent Apps
 
-| Folder | Features | Technology |
-| ------ | -------- | ---------- |
+| Folder | Description | Features | Technology |
+| ------ | ----------- | -------- | ---------- |
 
 
 ## Nonpersistent Apps
 
-| Folder               | Features         | Technology         |
-| -------------------- | ---------------- | ------------------ |
-| ./single-function-js | Minimum Features | JQuery, JavaScript |
+| Folder                | Description                                            | Features         | Technology         |
+| --------------------- | ------------------------------------------------------ | ---------------- | ------------------ |
+| ./single-function-js/ | Creating a to do app with only one javascript function | Minimum Features | JQuery, JavaScript |
