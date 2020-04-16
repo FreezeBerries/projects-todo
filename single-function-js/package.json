@@ -1,0 +1,15 @@
+{
+  "name": "single-function",
+  "version": "1.0.0",
+  "description": "A todo app in a single javascript function.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Hunt",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
